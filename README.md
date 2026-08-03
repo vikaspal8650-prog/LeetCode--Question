@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0053-maximum-subarray) |
+| [0238-product-of-array-except-self](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
