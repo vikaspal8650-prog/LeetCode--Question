@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
