@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3731-find-missing-elements) |
 ## String
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0238-product-of-array-except-self) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
