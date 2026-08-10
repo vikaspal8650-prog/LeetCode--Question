@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0443-string-compression](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0443-string-compression) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0042-trapping-rain-water) |
+| [0443-string-compression](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0977-squares-of-a-sorted-array) |
