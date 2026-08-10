@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0035-search-insert-position) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
