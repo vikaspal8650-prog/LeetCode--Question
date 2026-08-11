@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3731-find-missing-elements) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
