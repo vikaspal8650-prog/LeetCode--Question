@@ -3,18 +3,21 @@ class Solution {
        Stack<Integer> s = new Stack<>();
 
         for (String token : tokens) {
-            if (token.equals("+") || token.equals("-") ||
-                token.equals("*") || token.equals("/")) {
+            if (token.equals("+") ||
+               token.equals("-") ||
+                token.equals("*") ||
+                 token.equals("/")) {
 
                 int b = s.pop();
                 int a = s.pop();
-
+                 int result=0;
                 switch (token) {
-                    case "+" -> s.push(a + b);
-                    case "-" -> s.push(a - b);
-                    case "*" -> s.push(a * b);
-                    case "/" -> s.push(a / b);
+                    case "+" -> result=(a + b);
+                    case "-" -> result=(a - b);
+                    case "*" -> result=(a * b);
+                    case "/" -> result=(a / b);
                 }
+                s.push(result);
             } else {
                 s.push(Integer.parseInt(token));
             }
