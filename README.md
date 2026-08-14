@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2540-minimum-common-value](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2540-minimum-common-value) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2798-number-of-employees-who-met-the-target) |
