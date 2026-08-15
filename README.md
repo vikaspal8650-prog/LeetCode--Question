@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3099-harshad-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
