@@ -25,7 +25,9 @@ class Solution {
     }
     public boolean isStrictlyPalindromic(int n) {
         boolean ans=true;
-        for(int i=2; i<n-1;i++){
+        for(int i=2; i < n-1;i++){
+            if(ans == false)
+            return false;
             ans=ans & convert(n,i);
         }
         return ans;
