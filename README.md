@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1837-sum-of-digits-in-base-k](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1837-sum-of-digits-in-base-k) |
 | [2396-strictly-palindromic-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2396-strictly-palindromic-number) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
