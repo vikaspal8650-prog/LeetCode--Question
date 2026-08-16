@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2029-stone-game-ix](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1837-sum-of-digits-in-base-k) |
+| [2029-stone-game-ix](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2029-stone-game-ix) |
 | [2396-strictly-palindromic-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2396-strictly-palindromic-number) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -109,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2029-stone-game-ix](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2029-stone-game-ix) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
@@ -196,4 +200,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2396-strictly-palindromic-number) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
