@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1822-sign-of-the-product-of-an-array) |
