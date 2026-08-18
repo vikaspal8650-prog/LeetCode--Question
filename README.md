@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0414-third-maximum-number) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0414-third-maximum-number) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0540-single-element-in-a-sorted-array) |
@@ -219,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2029-stone-game-ix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
