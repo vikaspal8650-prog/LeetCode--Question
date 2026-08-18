@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1837-sum-of-digits-in-base-k) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0976-largest-perimeter-triangle) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2029-stone-game-ix](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2029-stone-game-ix) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -228,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0268-missing-number) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
