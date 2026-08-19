@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0008-string-to-integer-atoi) |
 | [0443-string-compression](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0443-string-compression) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
