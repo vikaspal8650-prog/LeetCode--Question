@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0053-maximum-subarray) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0349-intersection-of-two-arrays) |
