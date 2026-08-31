@@ -9,7 +9,7 @@ class Solution {
                 ans.add("Buzz");;
             }
             else if(i %3==0) ans.add("Fizz");
-            else ans.add(i+"");
+            else ans.add(String.valueOf(i));
         }
         return ans;
     }
