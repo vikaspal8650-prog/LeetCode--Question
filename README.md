@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2540-minimum-common-value](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2540-minimum-common-value) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0268-missing-number) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Quicksort
 |  |
 | ------- |
