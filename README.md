@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2540-minimum-common-value) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2396-strictly-palindromic-number) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/2540-minimum-common-value) |
 ## Counting Sort
