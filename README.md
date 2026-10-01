@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0443-string-compression) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -285,5 +287,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
