@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0022-generate-parentheses) |
 | [0412-fizz-buzz](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0443-string-compression) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0053-maximum-subarray) |
 ## Two Pointers
@@ -288,5 +290,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vikaspal8650-prog/LeetCode--Question/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
